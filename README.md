@@ -4,7 +4,8 @@ Esta es una lista de cosas
 
 - Balon
 - Pantalla
-  [Este usuario de Github](https://github.com/Mestosc)
+
+[Este usuario de Github](https://github.com/Mestosc)
 ```mermaid
 graph TD;
     Primer-->Intermedio;
