@@ -9,6 +9,6 @@ Esta es una lista de cosas
 graph TD;
     Primer-->Intermedio;
     Primer-->Intermedio_2;
-    Intermedio-->Destino final;
+    Intermedio-->Destino_final;
     Intermedio_2-->Primer;
 ```
