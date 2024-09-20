@@ -7,7 +7,8 @@ Esta es una lista de cosas
 - Balon
 - Pantalla
 
-[Este usuario de Github](https://github.com/Mestosc)
+[El usuario que creo este README](https://github.com/Mestosc)
+
 ```mermaid
 graph TD;
     Primer-->Intermedio;
