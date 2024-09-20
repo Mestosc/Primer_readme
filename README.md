@@ -1,5 +1,7 @@
 # Este es el titulo del mi **README**
 
+Aqui expondre una lista de cosas, un enlace y un diagrama sencillo como prueba
+
 Esta es una lista de cosas
 
 - Balon
