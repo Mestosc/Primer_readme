@@ -9,8 +9,7 @@
 > [!NOTE]
 > Tener en cuenta esto son ejemplos 
 
-Aqui **expondre** una *lista* de cosas, un enlace y un diagrama sencillo como prueba
-
+Aqui **expondre** una *lista* de cosas, un enlace, un diagrama sencillo y no se si más como prueba
 
 Esta es una lista de cosas
 
@@ -38,7 +37,8 @@ Pasos:
 5. Hacer `git add NombreArchivo`
 6. Hacer `git commit -m "Primer commit"`
 7. Hacer `git push -u origin main`
-8. Ya esta ahi el codigo 
-
+8. Ya esta ahi el codigo :heavy_check_mark:
+ 
+![Gif_asustado](https://media.tenor.com/kViNoEitLToAAAAi/peepo-nervous.gif)
 ![Markdown logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3rGrxyxwbrtTBpYMrONJWKKZaxjtd2nRqKg&s)
 
