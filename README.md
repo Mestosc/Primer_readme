@@ -42,3 +42,5 @@ Pasos:
 ![Gif_asustado](https://media.tenor.com/kViNoEitLToAAAAi/peepo-nervous.gif)
 ![Markdown logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3rGrxyxwbrtTBpYMrONJWKKZaxjtd2nRqKg&s)
 
+> En todo hay una parte de todo
+> Anaxágoras
