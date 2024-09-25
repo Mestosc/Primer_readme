@@ -6,7 +6,7 @@
 > [!NOTE]
 > Tener en cuenta esto son ejemplos 
 
-Aqui **expondre** una *lista* de cosas, un =enlace= y un diagrama sencillo como prueba
+Aqui **expondre** una *lista* de cosas, un enlace y un diagrama sencillo como prueba
 
 Esta es una lista de cosas
 
