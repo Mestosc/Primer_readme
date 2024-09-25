@@ -11,7 +11,7 @@
 
 Aqui **expondre** una *lista* de cosas, un enlace y un diagrama sencillo como prueba
 
-¿Que color es? `#fab387`
+¿Que color es? `#0969DA` 
 
 Esta es una lista de cosas
 
