@@ -24,4 +24,14 @@ graph TD;
     Intermedio_2-->Primer;
     Intermedio_2-->Destino_final;
 ```
+Pasos:
+1. Crear repositorio local
+2. Crear repositorio en Github
+3. Usar comando para conectarlo al respositorio en linea
+4. Hacer `git add NombreArchivo`
+5. Hacer `git commit -m "Primer commit"`
+6. Hacer `git push -u origin`
+7. Ya esta ahi el codigo 
+
 ![Markdown logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3rGrxyxwbrtTBpYMrONJWKKZaxjtd2nRqKg&s)
+
