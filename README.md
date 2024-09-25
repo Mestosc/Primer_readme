@@ -13,6 +13,7 @@ Esta es una lista de cosas
 - Balon
 - Pantalla
 - [ ] Tarea por hacer para el desarrollo de la nueva funcionalidad
+- [X] Tarea hecha
 [El usuario que creo este README](https://github.com/Mestosc)
 
 ```mermaid
