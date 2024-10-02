@@ -42,5 +42,15 @@ Pasos:
 ![Gif_asustado](https://media.tenor.com/kViNoEitLToAAAAi/peepo-nervous.gif)
 ![Markdown logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3rGrxyxwbrtTBpYMrONJWKKZaxjtd2nRqKg&s)
 
+## Codigo explicado
+
+```java
+System.out.println("Este es mi codigo");
+```
+Este codigo muestra texto por salida estandar y hace un salto de linea de forma automatica
+
+```java
+int x = 23;
+```
 > En todo hay una parte de todo
 > Anaxágoras
