@@ -53,4 +53,5 @@ Este codigo muestra texto por salida estandar y hace un salto de linea de forma 
 int x = 23;
 ```
 > En todo hay una parte de todo
+> 
 > Anaxágoras
