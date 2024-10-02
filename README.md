@@ -52,6 +52,20 @@ Este codigo muestra texto por salida estandar y hace un salto de linea de forma 
 ```java
 int x = 23;
 ```
+Este codigo es para declarar e inicializar una variable
+
+```python
+x = input("¿Desea usted destruirlo todo? ")
+if x == "Si":
+   print("Adioooos")
+elif x == "si":
+   print("Adioooos")
+elif x == "SI":
+   print("Adioooos")
+else:
+   print("Imet")
+```
+Esto es un codigo en python para hacer la broma más rara que he visto
 > En todo hay una parte de todo
 > 
 > Anaxágoras
