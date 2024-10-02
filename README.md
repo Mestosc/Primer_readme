@@ -43,16 +43,19 @@ Pasos:
 ![Markdown logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3rGrxyxwbrtTBpYMrONJWKKZaxjtd2nRqKg&s)
 
 ## Codigo explicado
+Este codigo muestra texto por salida estandar y hace un salto de linea de forma automatica
 
 ```java
 System.out.println("Este es mi codigo");
 ```
-Este codigo muestra texto por salida estandar y hace un salto de linea de forma automatica
+
+Este codigo es para declarar e inicializar una variable
 
 ```java
 int x = 23;
 ```
-Este codigo es para declarar e inicializar una variable
+
+Esto es un codigo en python para hacer la broma más rara que he visto
 
 ```python
 x = input("¿Desea usted destruirlo todo? ")
@@ -64,8 +67,8 @@ elif x == "SI":
    print("Adioooos")
 else:
    print("Imet")
+
 ```
-Esto es un codigo en python para hacer la broma más rara que he visto
 > En todo hay una parte de todo
 > 
 > Anaxágoras
