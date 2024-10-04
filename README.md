@@ -69,6 +69,22 @@ else:
    print("Imet")
 
 ```
+Condicional **if** en Java:
+```java
+int x = 23;
+if (x >=23) {
+    System.out.println("Estas en una edad interesante");
+}
+else {
+    if (x <= 23)  {
+     System.out.println("Esto es un ejemplo tampoco hay que ser lo más preciso" + x);   
+    }
+}
+```
+
+
+## Cita al azar
+
 > En todo hay una parte de todo
 > 
 > Anaxágoras
