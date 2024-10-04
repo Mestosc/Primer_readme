@@ -72,6 +72,7 @@ else:
 Condicional **if** en Java:
 ```java
 int x = 23;
+
 if (x >=23) {
     System.out.println("Estas en una edad interesante");
 }
