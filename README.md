@@ -1,7 +1,7 @@
 # Este es el título del mi README
 
 > [!WARNING]
-> Informo que hice cambios desde mi ordenador personal donde tengo git configurado con mi cuenta personal por eso aparece mi cuenta personal de Github como contribuidor 
+> Informo que hice cambios desde mi ordenador personal donde tengo git configurado con mi cuenta personal por eso aparece mi cuenta personal de Github como contribuidor, pero ya lo tengo configurado con la cuenta de Daniel castelao
 
 > [!IMPORTANT]
 > Es importante saber que esto es un ejemplo.
